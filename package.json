@@ -1,0 +1,19 @@
+{
+  "name": "d-component-styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "derby": "^0.6.0-alpha31"
+  },
+  "author": {
+    "name": "cjblomqvist",
+    "email": "carl@cjblomqvist.com"
+  },
+  "license": "",
+  "readme": "d-playground\n",
+  "readmeFilename": "README.md"
+}
