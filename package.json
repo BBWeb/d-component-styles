@@ -1,7 +1,7 @@
 {
   "name": "d-component-styles",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Derby plugin for adding the possibility to define (links to) styles on a component level",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,11 +9,19 @@
   "dependencies": {
     "derby": "^0.6.0-alpha31"
   },
-  "author": {
-    "name": "cjblomqvist",
-    "email": "carl@cjblomqvist.com"
+  "author": "cjblomqvist <carl@cjblomqvist.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BBWeb/d-component-styles.git"
   },
-  "license": "",
-  "readme": "d-playground\n",
+  "keywords": [
+    "derby",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/BBWeb/d-component-styles/issues"
+  },
+  "homepage": "https://github.com/BBWeb/d-component-styles",
   "readmeFilename": "README.md"
 }
